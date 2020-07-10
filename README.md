@@ -1,2 +1,2 @@
 # Web Page
- web page example
+ web page examples
