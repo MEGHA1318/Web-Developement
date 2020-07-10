@@ -1,2 +1,2 @@
-# tribute-page
-A tribute web page example
+# Web Page
+ web page example
